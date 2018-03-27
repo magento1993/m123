@@ -1,0 +1,17 @@
+/** #my-orders-table{border:2px solid #FF0000;color:#FF0000;}
+ 
+Here i add style on table id for understand  **/
+/** Magento2 support 'less'  in next post i'll explain how to use less in magento2 module **/
+/** here we add normal css file in magento2 **/
+
+
+.newcolor
+{
+   background: #29487d !important;
+   box-shadow: 1px 5px 5px 1px rgba(66, 103, 178, 0.51);
+   font-size: 23px !important;
+   font-weight: bold !important;
+   border-radius: 10px;
+   height: 60px;
+   font-family: italic !important;
+}
